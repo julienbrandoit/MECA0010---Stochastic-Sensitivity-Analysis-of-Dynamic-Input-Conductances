@@ -1,3 +1,11 @@
+"""
+Author : BRANDOIT Julien
+
+This file should be considered as a BLACK BOX. It contains utility functions that are used in the main scripts.
+
+Some of the functions may be not used in the main scripts. This is because this file is part of a larger project and some functions are used in other scripts.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns

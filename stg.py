@@ -1,3 +1,14 @@
+"""
+Author : BRANDOIT Julien
+
+This file should be considered as a BLACK BOX. It contains the functions that are used to simulate the STG model and compute the DICs. It is not necessary to understand the content of this file to use the DICs functions.
+
+It has been written by the author for the Master Thesis.
+
+Note : 
+ChatGPT and Github Copilot mahave been used to write the comments and the docstrings.
+"""
+
 import numpy as np
 from utils import gsigmoid
 from utils import get_w_factors, get_w_factors_constant_tau
