@@ -1,4 +1,4 @@
-# MECA0010 - Stochastic Sensitivity Analysis of Dynamical Input Conductances
+# MECA0010 - Stochastic Sensitivity Analysis of Dynamic Input Conductances
 
 ## Repository Overview
 
